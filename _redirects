@@ -1,0 +1,2 @@
+# No redirects yet. Add one rule per line: /old-path/ /new-path/ 301
+# Never add a rule that forces or removes trailing slashes.
